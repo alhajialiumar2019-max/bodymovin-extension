@@ -2,7 +2,7 @@
 
 Bodymovin-TG is designed to help you export your animations in the **.TGS** format supported by the Telegram Animated Stickers platform.
 
-### Installing
+### Installing 
  
 1. Close After Effects if it's open
 2. Install [the ZXP Installer][zxp_installer] 
